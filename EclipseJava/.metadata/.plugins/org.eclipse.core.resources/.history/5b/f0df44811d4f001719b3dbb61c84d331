@@ -1,0 +1,9 @@
+package com.polymorphism;
+
+public class Vehicle {
+	int price;
+	
+	public void moving(){
+		System.out.println("Vehicle is moving at 50km/hr.");
+	}
+}

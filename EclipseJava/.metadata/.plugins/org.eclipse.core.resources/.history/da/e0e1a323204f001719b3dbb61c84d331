@@ -1,0 +1,9 @@
+package com.abstraction;
+
+public class Animal {
+		int weight;
+		
+		public void eating(){
+			System.out.println("");
+		}
+}

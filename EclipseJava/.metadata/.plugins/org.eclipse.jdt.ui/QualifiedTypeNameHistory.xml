@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.encapsulation.Bank"/>
+<fullyQualifiedTypeName name="com.sub.Bank"/>
+<fullyQualifiedTypeName name="com.sub.BankBranch"/>
+<fullyQualifiedTypeName name="com.polymorphism.Car"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.loopingcontrols.Gear"/>
+</qualifiedTypeNameHistroy>

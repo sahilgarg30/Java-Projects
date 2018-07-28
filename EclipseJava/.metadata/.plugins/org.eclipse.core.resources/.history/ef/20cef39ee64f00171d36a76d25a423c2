@@ -1,0 +1,14 @@
+package com.datatypes;
+
+public class Car {
+		static int price;
+		byte length;
+		boolean isABS;
+		char c;
+		float f;
+		
+		public void moving(){
+			int i;
+			System.out.println("Car is moving.");
+		}
+}

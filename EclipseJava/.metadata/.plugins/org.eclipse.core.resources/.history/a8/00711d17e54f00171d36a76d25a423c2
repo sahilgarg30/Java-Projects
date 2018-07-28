@@ -1,0 +1,8 @@
+package com.datatypes;
+
+public class Car {
+		int price;
+		byte length;
+		boolean isABS;
+		char c;
+}

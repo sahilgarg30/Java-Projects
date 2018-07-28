@@ -1,0 +1,9 @@
+package com.polymorphism;
+
+public class Car extends Vehicle {
+	int width;
+	
+	public void turning(){
+		System.out.println("Car is turning at 30km/hr.");
+	}
+}
